@@ -1,0 +1,17 @@
+datasets==3.5.0
+faiss==1.9.0
+faiss_cpu==1.11.0
+huggingface_hub==0.30.2
+joblib==1.4.2
+nltk==3.9.1
+numpy==2.2.6
+psutil==5.9.0
+rouge_score==0.1.2
+sacrebleu==2.5.1
+scikit_learn==1.6.1
+sentence_transformers==4.1.0
+streamlit==1.45.1
+textdistance==4.6.3
+torch==2.5.1
+tqdm==4.67.1
+transformers==4.49.0
