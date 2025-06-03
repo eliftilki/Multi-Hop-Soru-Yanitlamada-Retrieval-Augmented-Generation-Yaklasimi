@@ -122,10 +122,10 @@ Bu proje, [HotpotQA](https://hotpotqa.github.io/) veri seti üzerinde çalışan
 ## 🖼️ Arayüz Görselleri
 
 ### Ana Sayfa (Soru sorulmadan önce)
-![Uygulama Görseli 1](images/main_screen.png)
+![Uygulama Görseli 1](images/main_screen.PNG)
 
 ### Cevaplama Ekranı (Soru sorulduktan sonra)
-![Uygulama Görseli 2](images/answer_screen.png)
+![Uygulama Görseli 2](images/answer_screen.PNG)
 
 ## 🧩 Kullanılan Teknolojiler
 
